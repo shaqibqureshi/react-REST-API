@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f5f5f5;
+  color: #222;
+}
+
+a {
+  color: #2563eb;
+  text-decoration: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+.container {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 20px;
+}
